@@ -1,0 +1,9 @@
+[MASTER]
+
+[BASIC]
+# Naming hint for constant names
+const-naming-style=any
+variable-naming-style=any
+
+[MESSAGES CONTROL]
+disable=import-error
